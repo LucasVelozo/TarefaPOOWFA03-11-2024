@@ -1,0 +1,20 @@
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\bin\Debug\WFAPOO1.exe.config
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\bin\Debug\WFAPOO1.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\bin\Debug\WFAPOO1.pdb
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.Form1.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.Properties.Resources.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.csproj.GenerateResource.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO1\obj\Debug\WFAPOO1.pdb
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\bin\Debug\WFAPOO1.exe.config
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\bin\Debug\WFAPOO1.exe
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\bin\Debug\WFAPOO1.pdb
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.csproj.AssemblyReference.cache
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.Form1.resources
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.Properties.Resources.resources
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.csproj.GenerateResource.cache
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.csproj.CoreCompileInputs.cache
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.exe
+E:\Faculdade\Semestre DP\PRCA2\WFAPOO3110-main\WFAPOO-main\WFAPOO1\obj\Debug\WFAPOO1.pdb
